@@ -2,10 +2,11 @@
   "name": "bootstrap-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://animeshjain87.github.io/Reactapp/",
+  "homepage": "https://animeshjain87.github.io/Reactapp",
   "dependencies": {
     "bootstrap": "^4.5.0",
     "cra-template": "1.0.3",
+    "gh-pages": "^3.0.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
